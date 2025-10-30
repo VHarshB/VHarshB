@@ -76,7 +76,7 @@ React.js, Node.js, MongoDB, Redis, TypeScript
 📧 **Email:** hvaishya@asu.edu  
 🔗 **LinkedIn:** [linkedin.com/in/harsh-vaishya-8948041ab](https://linkedin.com/in/harsh-vaishya-8948041ab)  
 🌐 **Website:** [harshvaishya.online](https://harshvaishya.online)  
-📄 **Resume:** [View My Resume](https://github.com/VHarshB/VHarshB/blob/main/Harsh_Resume_Internship.pdf)
+📄 **Resume:** Available upon request via email
 
 ---
 
