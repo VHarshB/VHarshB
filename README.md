@@ -3,7 +3,7 @@
 ## 🎯 4x Hackathon Winner | Full-Stack Developer | AI/ML Enthusiast
 
 🎓 **Computer Science @ Arizona State University** (Spring 2027) | GPA: 3.6/4.0  
-💼 **Seeking Summer 2026 Internship** | F-1 CPT Eligible (Jan-Dec 2026)
+💼 **Seeking 2026 Internship** 
 
 ---
 
