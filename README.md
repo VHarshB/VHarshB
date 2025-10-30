@@ -75,7 +75,7 @@ React.js, Node.js, MongoDB, Redis, TypeScript
 
 📧 **Email:** hvaishya@asu.edu  
 🔗 **LinkedIn:** [linkedin.com/in/harsh-vaishya-8948041ab](https://linkedin.com/in/harsh-vaishya-8948041ab)  
-🌐 **Website:** [harshvaishya.online](https://harshvaishya.online)  
+🌐 **Website:** [harshvaishya.online](https://www.harshvaishya.online)  
 📄 **Resume:** Available upon request via email
 
 ---
@@ -83,8 +83,8 @@ React.js, Node.js, MongoDB, Redis, TypeScript
 ## 💼 Open to Opportunities
 
 ✅ **Available for Summer 2026 Internships**  
-✅ **CPT Eligible: January - December 2026**  
-✅ **Interested in:** Full-Stack Development, Distributed Systems, AI/ML, Cloud Engineering
+✅ **CPT Eligible**  
+✅ **Interested in:** Full-Stack Development, SWE Intern, Distributed Systems, AI/ML, Cloud Engineering
 
 ---
 
