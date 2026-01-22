@@ -75,7 +75,7 @@ React.js, Node.js, MongoDB, Redis, TypeScript
 
 📧 **Email:** hvaishya@asu.edu  
 🔗 **LinkedIn:** [linkedin.com/in/harsh-vaishya-8948041ab](https://linkedin.com/in/harsh-vaishya-8948041ab)  
-🌐 **Website:** [harshvaishya.online](https://www.harshvaishya.online)  
+🌐 **Website:** [harshvaishya.online](https://www.harshvaishya.tech)  
 📄 **Resume:** Available upon request via email
 
 ---
