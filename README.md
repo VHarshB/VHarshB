@@ -1,35 +1,54 @@
 # Hi, I'm Harsh Vaishya
 
-Software Developer Intern at JR Capital | Computer Science at Arizona State University
+**Computer Science @ Arizona State University | May 2027**  
+**Former Software Engineer Intern @ JR Capital**
 
-I build practical software products across web applications, automation, and rapid prototyping.
+I build full-stack applications, backend systems, and developer tools. I enjoy taking problems from prototype to working software, learning through projects, hackathons, and real engineering challenges.
 
-## Current Focus
+Currently exploring software engineering internships, co-ops, and 2027 new-grad opportunities.
 
-- Software engineering and backend fundamentals
-- Java, Python, JavaScript, and React
-- Product-focused development
-- Engineering tradeoffs and system reliability
-- Learning through projects, hackathons, and real-world work
+## Engineering Experience
 
-## Selected Work
+**JR Capital — Software Engineer Intern | May–Aug 2026**
 
-- **Faith** — Domain-history research tool for evaluating risky website domains
-- **ASU Course Checker** — Automated course-seat monitoring and email alerts
-- **Parking Vacancy Detector** — Real-time computer-vision prototype built during a hackathon
-- **Melodia** — Music-processing hackathon project
+- Developed Salesforce applications using Apex, SOQL, REST APIs, and Lightning Web Components.
+- Refactored business-rule logic into a reusable, configuration-driven architecture.
+- Maintained 90%+ automated test coverage and contributed to releases with a 16-member team.
 
-## What You Will Find Here
+## Selected Projects
 
-These repositories include coursework, hackathon projects, and independent builds. Each project should clearly state:
+**[ASU Course Availability Monitor](https://github.com/VHarshB/ASU-coursechecker)**  
+Python · Selenium · Supabase
 
-- the problem
-- my individual contribution
-- the technologies used
-- the current project status
-- known limitations
+Automated course-seat monitoring with checks every two minutes, historical tracking, and email notifications.
 
-## Contact
+**[Tom Riddle — AI Diary](https://devpost.com/software/tom-riddle)**  
+React · FastAPI · Google GenAI · ChromaDB
 
-- LinkedIn: https://www.linkedin.com/in/vaishyaharsh/
-- Email: hvaishya@asu.edu
+Memory-aware AI journaling application using semantic retrieval. Won the AI in Innovation award at InnovationHacks 2025.
+
+**[Faith — Domain Research Tool](https://devpost.com/software/faith-vb43uw)**  
+React · JavaScript
+
+Domain-history and risk-review application. Won 1st place in the Amazon track at Hack SoDA 2024.
+
+**WeVibe — ASU Capstone (In Progress)**  
+Next.js · Node.js · Django · PostgreSQL
+
+Sponsor-backed social-connection platform. Contributed shared validation, API error handling, authentication and navigation fixes, regression testing, and repository restructuring.
+
+**[CampusCue](https://github.com/VHarshB/CampusCue)**  
+Cubbie Skill · Agent Workflows
+
+Hackathon project exploring personalized campus activities and a separate consent-based agent-matching prototype.
+
+## Technical Skills
+
+- **Languages:** Java, Python, JavaScript, TypeScript, C++, SQL, Apex
+- **Frontend:** React, Next.js, HTML/CSS, Lightning Web Components
+- **Backend:** Node.js, FastAPI, REST APIs, Salesforce
+- **Data & Tools:** PostgreSQL, Supabase, AWS, Docker, Git, GitHub, Selenium, Postman
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/vaishyaharsh/) · [Email](mailto:hvaishya@asu.edu)
