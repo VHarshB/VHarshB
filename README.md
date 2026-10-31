@@ -3,7 +3,7 @@
 **Computer Science @ Arizona State University | May 2027**  
 **Former Software Engineer Intern @ JR Capital**
 
-I build full-stack applications, backend systems, and developer tools. I enjoy taking problems from prototype to working software, learning through projects, hackathons, and real engineering challenges.
+I build software across backend systems, full-stack applications, and AI. From Salesforce engineering at JR Capital to award-winning hackathon projects, I enjoy turning ideas into working products.
 
 Currently exploring software engineering internships, co-ops, and 2027 new-grad opportunities.
 
@@ -17,25 +17,25 @@ Currently exploring software engineering internships, co-ops, and 2027 new-grad 
 
 ## Selected Projects
 
-**[ASU Course Availability Monitor](https://github.com/VHarshB/ASU-coursechecker)**  
-Python · Selenium · Supabase
-
-Automated course-seat monitoring with checks every two minutes, historical tracking, and email notifications.
-
 **[Tom Riddle — AI Diary](https://devpost.com/software/tom-riddle)**  
 React · FastAPI · Google GenAI · ChromaDB
 
 Memory-aware AI journaling application using semantic retrieval. Won the AI in Innovation award at InnovationHacks 2025.
 
-**[Faith — Domain Research Tool](https://devpost.com/software/faith-vb43uw)**  
-React · JavaScript
+**[ASU Course Availability Monitor](https://github.com/VHarshB/ASU-coursechecker)**  
+Python · Selenium · Supabase
 
-Domain-history and risk-review application. Won 1st place in the Amazon track at Hack SoDA 2024.
+Automated course-seat monitoring with checks every two minutes, historical tracking, and email notifications.
 
 **WeVibe — ASU Capstone (In Progress)**  
 Next.js · Node.js · Django · PostgreSQL
 
 Sponsor-backed social-connection platform. Contributed shared validation, API error handling, authentication and navigation fixes, regression testing, and repository restructuring.
+
+**[Faith — Domain Research Tool](https://devpost.com/software/faith-vb43uw)**  
+React · JavaScript
+
+Domain-history and risk-review application. Won 1st place in the Amazon track at Hack SoDA 2024.
 
 **[CampusCue](https://github.com/VHarshB/CampusCue)**  
 Cubbie Skill · Agent Workflows
